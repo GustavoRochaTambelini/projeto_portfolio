@@ -1,0 +1,13 @@
+
+.container-home{
+    width: 1348px;
+    height: 800px;
+    background:#324158;    
+}
+
+.container-home-smart{
+    width: 1348px;
+    height: 800px;
+    background-image:url("../imagem/img01.jpg");
+    opacity : 0.3;
+}
