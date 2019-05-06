@@ -1,3 +1,28 @@
-#home-fundo-imagem{
-     background-color:grey;
+html,
+header,
+body,
+#intro{
+    height: 100%;
+}
+
+.navbar{
+    border-bottom: 3px solid  rgb(0, 0, 0);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.9);
+}
+
+header{
+    width: 100%;
+    height: 800px;
+    background-image: url("../imagem/img01.jpg");
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+
+.cover{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(14, 13, 13);
+    opacity:0.7;
 }

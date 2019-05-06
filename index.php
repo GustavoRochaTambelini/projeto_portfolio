@@ -1,14 +1,19 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
     <title>Gustavo Rocha Tambelini</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">    
+    <link rel="stylesheet" href="assets/css/mdb.lite.min.css">
+    <link rel="stylesheet" href="assets/css/mdb.lite.css">
+    <link rel="stylesheet" href="assets/css/mdb.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-inverse navbar-fixed-top navbar-expand-lg navbar-light shadow-lg p-3 mb-5 rounded" style="position: absolute; width:100%;">
+<header>
+    <div class="cover">
+        <nav class="navbar navbar-inverse navbar-fixed-top navbar-expand-lg navbar-dark">
             <div class="container">
 
                 <a class="navbar-brand" href="#">LOGO</a>
@@ -36,8 +41,11 @@
 
             </div>
 
-        </nav>                  
+        </nav> 
 
+    </div>                 
+
+    </header>
 <script type="text/javascript" src="assets/js/jquery.min.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>   
 </body>
