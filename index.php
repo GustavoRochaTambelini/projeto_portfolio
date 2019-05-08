@@ -44,13 +44,42 @@
         </nav> 
 
         <div id="home-texto" class="container">
-            <p class="cabecario"><h1>Eu <br> Sou <br> Gustavo</h1></p>
+
+            <p class="cabecario"><h1 class="cabecario-h1">Eu <br> Sou <br> Gustavo</h1></p>
+
             <p class="funcao"><h2>Programador Web</h2></p>
+
         </div>
 
     </div>                 
    
     </header>
+
+    <main>
+        
+        <div class="cover">
+
+            <div class="container">
+
+                <div id="proficional-texto" class="container">
+
+                    <p class="proficional-cabecario">
+                        
+                        <h1 class="proficional-cabecario-h1">01 Proficional
+
+                        </h1>
+                    </p>
+
+                    <p class="funcao"><h2>Programador Web</h2></p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
 <script type="text/javascript" src="assets/js/jquery.min.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>   
 </body>
