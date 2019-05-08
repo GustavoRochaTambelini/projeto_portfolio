@@ -43,8 +43,13 @@
 
         </nav> 
 
-    </div>                 
+        <div id="home-texto" class="container">
+            <p class="cabecario"><h1>Eu <br> Sou <br> Gustavo</h1></p>
+            <p class="funcao"><h2>Programador Web</h2></p>
+        </div>
 
+    </div>                 
+   
     </header>
 <script type="text/javascript" src="assets/js/jquery.min.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>   
